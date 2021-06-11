@@ -1,0 +1,128 @@
+body {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  color: black;
+  line-height: 2;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.title{
+  color: black;
+}
+
+#title {
+  background-color: #ecdbba;
+  color: black;
+}
+
+#footer {
+  font-family: "Ubuntu", sans-serif;
+  background-color: #1768ac;
+  color: black;;
+}
+
+/* containers */
+.container-fluid {
+  padding: 3% 15%;
+}
+
+/* navigation bar */
+.navbar-brand {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  padding: 0 18px;
+}
+
+.dropdown-item{
+  padding: 0 10px 0 0;
+}
+
+/* heading & buttons*/
+.row {
+  margin-top: 10%;
+}
+
+.heading {
+  margin-top: 12%;
+  margin-bottom: 5%;
+}
+
+.recipe-1 {
+  padding: 10%;
+}
+
+.ingredients {
+  line-height: 3;
+}
+
+.preparation {
+  line-height: 3;
+}
+
+.dropdown {
+  padding-top: 5%;
+}
+
+
+/* Carousel */
+.carousel-caption{
+  background-color: #d8b384;
+  color: black;
+}
+
+/* Card */
+.lemon-head{
+padding: 0 35% 0 35%;
+}
+
+.ingredients{
+margin: 0 10% 0 10%;
+}
+
+
+/* Lists */
+ul {
+  list-style: none;
+  /* Remove list bullets */
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  padding-left: 16px;
+}
+
+/* pictures */
+.churros-1 {
+width: 70%;
+height: auto;
+}
+
+.brownie-1 {
+  width: 70%;
+  height: auto;
+}
+
+.lemon-1 {
+  width: 70%;
+  height: auto;
+}
+
+.cookie-1 {
+  width: 70%;
+  height: auto;
+}
